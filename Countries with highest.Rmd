@@ -119,4 +119,5 @@ covid_analysis_list[[2]]
 ```
 
 #Conclusion
-Following from the analysis, Bangladesh had the most number of positive cases against the number of tests conducted.
+Following from the analysis, within the range of the dataset, from January 20, 2020 - June 2020, Bangladesh had the highest number of positive cases against the number of tests conducted, followed by the United Kingdom and the United States, respectively.
+Over the years to present-day, more data has been obtained and further insights can be derived from more recent and updated dataset https://www.kaggle.com/lin0li/covid19testing
